@@ -1,0 +1,29 @@
+{
+  "name": "08",
+  "version": "1.0.0",
+  "description": "Raw NodeJS Project",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "nodemon index",
+    "staging": "NODE_ENV=staging nodemon index",
+    "production": "NODE_ENV=production nodemon index",
+    "test": "testCMD"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AungKyawChing/RawNodeJsProjectUptimeMonitoringAPI"
+  },
+  "keywords": [
+    "Raw",
+    "NodeJS",
+    "Project",
+    "Uptime",
+    "Monitoring",
+    "API"
+  ],
+  "author": "Aung Kyaw Ching\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[CPracticing By\u001b[C\u001b[C\u001b[ Aung Kyaw Ching",
+  "license": "ISC"
+}
